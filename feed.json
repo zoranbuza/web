@@ -1,0 +1,162 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Спировски",
+    "description": "",
+    "home_page_url": "https://zoranbuza.github.io",
+    "feed_url": "https://zoranbuza.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "hh"
+    },
+    "items": [
+        {
+            "id": "https://zoranbuza.github.io/oblasti-na-pravoto/",
+            "url": "https://zoranbuza.github.io/oblasti-na-pravoto/",
+            "title": "Области на Правото",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T10:45:16+01:00",
+            "date_modified": "2020-12-01T20:26:08+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/uslugi-2/",
+            "url": "https://zoranbuza.github.io/uslugi-2/",
+            "title": "Услуги",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T10:44:48+01:00",
+            "date_modified": "2020-10-27T10:44:48+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/za-nas/",
+            "url": "https://zoranbuza.github.io/za-nas/",
+            "title": "За Нас",
+            "summary": " Вашата правна безбедност е нашиот врвен приоритет Христијан Спировски Адвокатската Канцеларија Спировски нуди комплетни услуги од областа на правото, со тим специјализиран за&hellip;",
+            "content_html": "\n    <figure id=\"------\" class=\"blockquote\">\n      <blockquote>Вашата правна безбедност е нашиот врвен приоритет</blockquote>\n      <figcaption>Христијан Спировски</figcaption>\n    </figure>\n\n  <p>\n    <strong>Адвокатската Канцеларија Спировски</strong> нуди комплетни услуги од областа на правото, со тим специјализиран за советување на физички и правни лица. Клиентите не препознаваат по високиот квалитет на услугите кои ги даваме на локално и национално ниво. Вашата правна заштита е нашиот врвен приоритет.<br><br>Во нашата канцеларија за вас се грижат квалификувани и посветени адвокати, потпомогнати од надворешни соработници, експерти специјализирани секој во различна област. Се со цел за да ви понудиме комплетна услуга, соработуваме со судски преведувачи, извршители, вештаци, нотари и сметководители.\n  </p>",
+            "image": "https://zoranbuza.github.io/media/posts/25/natasha-t-4-SpVqMgefM-unsplash.jpg",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T10:44:17+01:00",
+            "date_modified": "2020-10-31T12:10:30+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/vesti-2/",
+            "url": "https://zoranbuza.github.io/vesti-2/",
+            "title": "Вести",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T10:43:48+01:00",
+            "date_modified": "2020-10-27T10:43:48+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/karieri-2/",
+            "url": "https://zoranbuza.github.io/karieri-2/",
+            "title": "Кариери",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T10:43:22+01:00",
+            "date_modified": "2020-10-27T10:43:22+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/kontakt-2/",
+            "url": "https://zoranbuza.github.io/kontakt-2/",
+            "title": "Контакт",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-27T10:42:53+01:00",
+            "date_modified": "2020-10-27T10:42:53+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/trgovsko-pravo/",
+            "url": "https://zoranbuza.github.io/trgovsko-pravo/",
+            "title": "Трговско Право",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://zoranbuza.github.io/media/posts/21/natasha-t-4-SpVqMgefM-unsplash.jpg",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+                   "Адвокатска Канцеларија Спировски"
+            ],
+            "date_published": "2020-10-27T10:41:27+01:00",
+            "date_modified": "2020-12-01T20:32:56+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/gragjansko-pravo/",
+            "url": "https://zoranbuza.github.io/gragjansko-pravo/",
+            "title": "Граѓанско Право",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://zoranbuza.github.io/media/posts/20/xps-TxXuh_hAFd8-unsplash.jpg",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+                   "Адвокатска Канцеларија Спировски"
+            ],
+            "date_published": "2020-10-27T10:40:32+01:00",
+            "date_modified": "2020-12-01T20:34:19+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/krivichno-pravo/",
+            "url": "https://zoranbuza.github.io/krivichno-pravo/",
+            "title": "Кривично Право",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://zoranbuza.github.io/media/posts/19/day64-followers.png",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+                   "Адвокатска Канцеларија Спировски"
+            ],
+            "date_published": "2020-10-27T10:40:02+01:00",
+            "date_modified": "2020-12-01T20:35:00+01:00"
+        },
+        {
+            "id": "https://zoranbuza.github.io/megjunarodno-pravo/",
+            "url": "https://zoranbuza.github.io/megjunarodno-pravo/",
+            "title": "Меѓународно Право",
+            "summary": " ",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://zoranbuza.github.io/media/posts/18/day97-champagne.png",
+            "author": {
+                "name": "hh"
+            },
+            "tags": [
+                   "Адвокатска Канцеларија Спировски"
+            ],
+            "date_published": "2020-10-27T10:39:28+01:00",
+            "date_modified": "2020-12-01T20:35:23+01:00"
+        }
+    ]
+}
